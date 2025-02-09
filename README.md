@@ -24,7 +24,7 @@
 ### 创建并激活Conda环境
 ```bash
 创建新的conda环境
-conda create -n llm_tools python=3.9
+conda create -n llm_tools python=3.10
 conda activate llm_tools
 ```
 
